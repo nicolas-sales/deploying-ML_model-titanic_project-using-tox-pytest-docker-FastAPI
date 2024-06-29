@@ -1,0 +1,22 @@
+titanic_project/
+│
+├── requirements/
+│   ├── requirements.txt
+│   └── test_requirements.txt
+│   └── typing_requirements.txt
+│
+├── titanic_model/
+│   ├── __init__.py
+│   ├── load_data.py
+│   ├── data_processing.py
+│   ├── pipeline.py
+│   ├── train.py
+│   ├── predict.py
+│   └── evaluation.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_predict.py
+│
+└── tox.ini
+
